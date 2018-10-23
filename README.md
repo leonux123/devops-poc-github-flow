@@ -1,1 +1,1 @@
-# devops-poc-github-flow
+# devops-poc-github-flow v2
